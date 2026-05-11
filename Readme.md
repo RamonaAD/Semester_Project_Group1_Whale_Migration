@@ -73,6 +73,7 @@ Time constraints may be one of the main challenges in this study. The use of mov
 ## References
 
 Andrews-Goff, V., Gales, N., Childerhouse, S. J., Laverick, S. M., Polanowski, A. M., & Double, M. C. (2023). *Data from: Australia’s east coast humpback whales: satellite tag derived movements on breeding grounds, feeding grounds and along the northern and southern migration.* [Dataset]. Movebank Data Repository. https://doi.org/10.5441/001/1.294
-Movebank. (n.d.). *Get started with Movebank.* Movebank. Retrieved May 3, 2026, from https://www.movebank.org/cms/movebank-content/get-started
+
+Movebank. (2026). *Get started with Movebank.* Movebank. Retrieved May 3, 2026, from https://www.movebank.org/cms/movebank-content/get-started
 
 
