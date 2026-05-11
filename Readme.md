@@ -21,7 +21,7 @@ quarto render Readme.md --to pdf
 Humpback whales migrate annually between feeding and breeding grounds. Therefore, satellite tags were deployed on 50 humpback whales (*Megaptera novaeangliae*) between Australia and Antarctica between 2008 and 2010 during their movements in coastal breeding areas, along their northward and southward migration routes, and at their Antarctic feeding grounds. The aim of this project is to replicate the spatial and temporal patterns of humpback whale migration based on an existing study.
 
 ## Research Questions
-The aim is to identify migratory pathways between Australia and Antarctica for breeding stock E1 humpback whales (Megaptera novaeangliae) using satellite-tag derived movement trajectories.  
+The aim is to identify migratory pathways between Australia and Antarctica for breeding stock E1 humpback whales (*Megaptera novaeangliae*) using satellite-tag derived movement trajectories.  
 
 •	Can migratory pathways of breeding stock E1 humpback whales be identified using satellite-tag derived movement data? 
 
@@ -66,7 +66,7 @@ Time constraints may be one of the main challenges in this study. The use of mov
 1. Shall we analyse step length, travel speed, turning angle, travel direction and behavioural state for all 50 individuals or choose a smaller sample (e.g. 10 individuals)?
 2. Which exclusion criteria should we use for a smaller sample (e.g., tracking duration, year, sex, frequency of satellite tag transmissions, Argos location error etc)?
 3. How should we consider the various classes of Argos location errors?  LC 3 has an estimated error of 250 m, LC 2 has an estimated error between 250 and 500 m and LC 1 has an estimated error between 500 and 1500 m. LC 0 has an open-ended error of 1500 m. LC A and B have no accuracy estimation and LC Z is an invalid location.
-4. Should we exclude LC A and B and LC Z from the analysis? 
+4. Should we exclude LC A, LC B and LC Z from the analysis? 
 5. Is there something we need to consider due to geodesic spatiotemporal space? 
 6. Is speed still a legitimate parameter to calculate? Whales do not only travel horizontally, but vertically. 
 
